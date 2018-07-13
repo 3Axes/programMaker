@@ -1,6 +1,6 @@
 # Contributing
 ***
-Check out https://github.com/3Axes/programMaker/wiki/Contributing for basic information.
+https://github.com/3Axes/programMaker/wiki/Contributing for basic information.
 ***
 
 Modules should:
