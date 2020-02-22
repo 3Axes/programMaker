@@ -11,6 +11,6 @@ public class Program {
     String path = new String();
 
     public static void main(String[] args) {
-        gui.create();
+        gui.update(0);
     }
 }
